@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'mooli';
+    src: url(Mooli-Regular.ttf);
+}
+table{
+    width: 700px;
+    height: 350px;
+}
+td{
+    text-align: center;
+}
+table{
+    margin: auto;
+    font-size: small;
+    font-family: mooli;    
+}
+th{
+    color: #f3b008;
+}
+td{
+    color: #f3b008;
+}
